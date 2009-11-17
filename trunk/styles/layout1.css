@@ -1,0 +1,112 @@
+*{margin:0; padding:0; border:none; outline:none;}
+.left{float:left;}
+.right{float:right;}
+.clear{clear:both;}
+a,input{outline:none;}
+
+body{background:#fff url(../images/body_bg.gif) repeat-x; background-position: 0px -170px; font:normal 12px/14px "Tahoma", Arial, Helvetica, sans-serif;}
+
+
+#layout{margin:0 auto; width:900px;}
+#header{float:left; width:900px;}
+#header .logo{float:left; width:auto; padding:19px 0 0 16px;}
+#header form{float:right; width:240px;}
+#header fieldset{float:left; width:240px;}
+#header fieldset label{float:right; width:auto; font-size:11px; line-height:14px; font-weight:bold; color:#aaaaaa; padding:28px 18px 0 0}
+#header fieldset label span{color:#f21286;}
+#header fieldset label a{text-decoration:underline; color:#e6e6e6;}
+#header fieldset label a:hover{text-decoration:none;}
+#header fieldset .row{float:left; width:231px; padding:18px 9px 0 0}
+#header fieldset .row .input_text{float:right; width:147px; height:19px; font-size:11px; color:#aaaaaa; background:url(../images/input_bg.gif) no-repeat 0 0; padding:2px 0 0 3px;}
+#header fieldset .row .search_button{float:right; width:65px; height:21px; background:url(../images/search_button.gif) no-repeat 0 0; border:none; cursor:pointer; margin:0 0 0 8px;}
+#header fieldset .row .search_hover{float:right; width:65px; height:21px; background:url(../images/search_button.gif) no-repeat 0 bottom; border:none; cursor:pointer; margin:0 0 0 8px;}
+#header .lower_header{float:left; width:900px; margin:13px 0 0 0; border-top:1px #464646 solid;}
+.lower_header .tabs{float:left; width:auto;}
+.lower_header .tabs ul{float:left; width:auto; list-style:none; padding:10px 0 0 0}
+.lower_header .tabs li{float:left; width:auto; font-size:12px; font-weight:bold; margin-right: 11px;}
+.lower_header .tabs li span{float:left; width:auto;}
+.lower_header .tabs li a{float:left; width:auto; text-decoration:none; color:#bfbfbf; background:url(../images/tab_left_curve.gif) no-repeat left top; height:25px; padding-left:7px;}
+.lower_header .tabs li a span {float:left; width:auto; background:url(../images/tab_right_curve.gif) no-repeat right top; padding:5px 10px 6px 3px}
+.lower_header .tabs li a:hover{background-position:0 -25px}
+.lower_header .tabs li a:hover span{background-position:right -25px; color:#464646; cursor:pointer} 	
+.lower_header .tabs li.current{float:left; color:#bfbfbf; background:url(../images/tab_left_curve.gif) no-repeat left top; height:25px; padding-left:7px; background-position:0 -25px;}
+.lower_header .tabs li.current span{float:left;width:auto; color:#464646; background:url(../images/tab_right_curve.gif) no-repeat right top; padding:5px 10px 6px 3px; background-position:right -25px; margin-right:0px; display:inline}
+.lower_header p{float:right; color:#bfbfbf; width:auto; font-size:11px; padding:14px 16px 0 0}
+.lower_header h4{float:right; font-size:20px; line-height:22px; font-weight:bold; color:#ef027d; width:auto; padding:10px 9px 0 0}
+.lower_header .boxes{float:left; width:900px; padding:8px 0 0 0}
+.lower_header .boxes .white_box{float:left; width:565px; background:url(../images/white_strip.gif) repeat-y 0 0;}
+.lower_header .boxes .white_box .white_top_curve{float:left; width:565px; background:url(../images/white_top_curve.gif) no-repeat 0 0; padding:0 0 17px 0 }
+.white_box .white_top_curve form{float:left!important; width:525px!important; margin:0 0 0 19px!important; display:inline;}
+.white_box .white_top_curve fieldset{float:left; width:525px!important;}
+.white_top_curve label{float:left!important; width:96px!important; padding:25px 0 0 8px!important; color:#f00780!important; font-size:12px; font-weight:bold;}
+.white_top_curve label.post{float:left;padding:13px 0 0 8px!important;}
+.white_top_curve .contents{float:left; width:413px; background:url(../images/check_strip.gif) repeat-y 0 0; margin-top:19px;}
+.white_top_curve .contents .top_bg{float:left; width:413px; background:url(../images/check_top_curve.gif) no-repeat 0 0;}
+.white_top_curve .contents .top_bg .check_box{float:left; margin:8px 0 0 12px; *margin:4px 0 0 8px; display:inline;}
+.white_top_curve .contents .top_bg p{float:left!important; font-weight:bold; width:auto!important; font-size:11px; color:#000!important; padding:7px 80px 0 10px; *padding:7px 80px 0 7px;}
+.white_top_curve .contents .top_bg p.video{float:left; padding:7px 76px 0 10px; *padding:7px 76px 0 7px;}
+.white_top_curve .contents .top_bg p.none{float:left; padding:7px 0 0 10px; *padding:7px 0 0 7px;}
+.white_top_curve .border{float:left; width:auto; margin-top:12px;}
+.white_top_curve .message{float:left; width:94px; height:25px; background:url(../images/message.gif) no-repeat 0 0; cursor:pointer; margin:10px 66px 0 0!important;}
+.white_top_curve .message_hover{float:left;  width:94px; height:25px; cursor:pointer; background:url(../images/message.gif) no-repeat 0 bottom; margin:10px 66px 0 0!important;}
+.white_top_curve .picture{float:left; width:94px; background:url(../images/picture.gif) no-repeat 0 0; height:25px; cursor:pointer; margin:10px 66px 0 0!important;}
+.white_top_curve .picture_hover{float:left; width:94px; background:url(../images/picture.gif) no-repeat 0 bottom; height:25px; cursor:pointer; margin:10px 66px 0 0!important;}
+.white_top_curve .videos{float:left; width:94px; background:url(../images/video.gif) no-repeat 0 0;  height:25px; cursor:pointer; margin:10px 0 0 0!important}
+.white_top_curve .videos_hover{float:left; width:94px; background:url(../images/video.gif) no-repeat 0 bottom;  height:25px; cursor:pointer; margin:10px 0 0 0!important}
+
+.grey_box{float:right; background:url(../images/isography_grey_bg.gif) no-repeat 0 0; width:322px; height:119px; margin-left:11px; display:inline;}
+.grey_box form{float:left!important; width:322px!important;}
+.grey_box fieldset{float:left!important; width:296px!important; padding:0px 0 0 26px!important;}
+.grey_box fieldset .cols{float:left; width:296px;}
+.grey_box fieldset .cols small{float:left; width:auto; color:#aaaaaa; font-size:12px; padding:2px 13px 0 13px}
+.grey_box fieldset .row{float:left; width:114px!important; padding:0!important; margin:0 0 0 0!important; display:inline}
+.grey_box fieldset h5{float:left; color:#f00780; font-size:12px; font-weight:bold; padding:15px 0 18px 0}
+.grey_box fieldset .row .pinkbox{float:right; margin-top:2px;}
+.grey_box fieldset .row.no_margin{float:left;margin:0 0 0 0!important;}
+.grey_box fieldset .row .input_box{float:left; width:85px; background:url(../images/date_input_bg.gif) no-repeat 0 0; height:19px; font-size:11px; color:#282828; margin:0; padding:2px 0 0 5px;}
+.grey_box fieldset .find{float:right; width:54px; height:21px; background:url(../images/find_button.gif) no-repeat 0 0; margin:16px 22px 0 0; display:inline}
+.grey_box fieldset .find_hover{float:right; width:54px; height:21px; background:url(../images/find_button.gif) no-repeat 0 bottom; cursor:pointer; margin:16px 22px 0 0; display:inline}
+#body_container{float:left; width:900px; padding-top:46px;}
+#body_container .top_section{float:left; width:900px; background:url(../images/white_bg.gif) repeat-y 0 0;}
+#body_container .top_section .top_curve{float:left; width:900px; background:url(../images/white_top_bg.gif) no-repeat 0 0;}
+#body_container .top_section .top_curve h4{float:left; width:auto; color:#282828; line-height:20px; font-size:11px; font-weight:bold; padding:11px 0 0 19px}
+#body_container .top_section .top_curve h4 span{color:#f10e84}
+#body_container .top_section .top_curve p{float:left; width:848px; color:#282828; font-size:11px; line-height:18px; padding:17px 33px 8px 19px;}
+
+#body_container .middle_section{float:left; width:900px; background:url(../images/video_bg.gif) repeat-y 0 0; margin-top:18px}
+#body_container .middle_section .top_bg{float:left; width:900px; background:url(../images/video_top_bg.gif) no-repeat 0 0;}
+#body_container .middle_section .top_bg h4{float:left; width:881px; color:#282828; line-height:20px; font-size:11px; font-weight:bold; padding:11px 0 0 19px}
+#body_container .middle_section .top_bg .video_palceholder{float:left; width:470px; height:301px; padding:13px 0 0 19px;}
+#body_container .middle_section .top_bg h4 span{color:#f10e84}
+#body_container .middle_section .top_bg p{float:left; width:848px; color:#282828; font-size:11px; line-height:18px; padding:17px 33px 8px 19px;}
+
+#body_container .middle_section .top_bg .bottom_image{float:left; padding:5px; margin:0 0 1px 17px; display:inline;}
+#body_container .middle_section .top_bg .bottom_image img{padding:5px; border:#CCCCCC 1px solid; margin:0 5px 5px 0; float:left;}
+#body_container .listing{float:right; width:auto;}
+#body_container .listing form{float:left; width:auto;}
+#body_container .listing fieldset{float:left; width:auto; padding:9px 0 28px 0}
+#body_container .listing fieldset ul{float:left; width:auto; list-style:none; padding:2px 0 0 0}
+#body_container .listing fieldset li{float:left; width:auto; font-size:11px; color:#282828; background:url(../images/seprator.gif) no-repeat right 2px; padding:0 6px 0 5px}
+#body_container .listing fieldset li a{float:left; text-decoration:none; color:#282828;}
+#body_container .listing fieldset li a:hover{ color:#F10E84}
+#body_container .listing fieldset li.last{float:left; background:none;}
+#body_container .listing fieldset li strong{float:left; padding:0 9px 0 6px;}
+#body_container .listing fieldset .input_text{float:left; width:40px; height:16px; border:1px solid	 #b4b4b4; color:#b4b4b4; font-size:11px; padding:2px 0 0 2px; margin:1px 8px 0 0}
+#body_container .listing fieldset .go_button{float:left; width:43px; height:22px; background:url(../images/go_button.gif) no-repeat 0 0;}
+#body_container .listing fieldset .go_hover{float:left; width:43px; cursor:pointer; height:22px; background:url(../images/go_button.gif) no-repeat 0 bottom;}
+#footer{float:left; width:100%; background:#000; height:121px;}
+#footer .inner_footer{margin:0 auto; width:900px;}
+#footer .inner_footer p{float:right; width:auto; color:#aaaaaa; font-size:11px; padding:14px 19px 0 0}
+#footer .inner_footer img{float:left; margin:17px 0 0 22px; display:inline}
+
+
+#postlist td {padding: 10px;}
+#input {border: solid 1px #666666;}
+
+
+
+
+
+
+
+
