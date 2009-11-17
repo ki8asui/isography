@@ -1,0 +1,12 @@
+AuthUserFile .htpasswd
+AuthName "Who goes there?"
+AuthType Basic
+Require valid-user 
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_URI} admin6.*
+RewriteRule ^(.*)$ /index.php/admin6/$1 [L]
+</IfModule> 

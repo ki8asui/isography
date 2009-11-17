@@ -1,0 +1,68 @@
+Your use of the Isography.com (the 'Web Site') and the information available on the Web Site is subject to the terms and conditions in this usage agreement and all other notices, policies, and disclaimers contained on the Web Site (collectively, the 'Agreement'). If there is a conflict between such other notices, policies and disclaimers and any of the terms and conditions in this usage agreement, then the terms and conditions in this usage agreement shall control. By using the Web Site, you agree to abide by the Agreement.
+
+Liability Disclaimer
+The information, software, products, and services published on the Web Site may include inaccuracies or typographical errors. Changes are periodically made to the information herein. Isography's staff may make improvements and/or changes to the Web Site at any time.
+
+Isography.com and/or its staff ('Isography') makes no representations about the suitability for any purpose of the information, software, products, and services contained on the Web Site. All such information, software, products, and services are provided 'as is' without warranty of any kind. Isography hereby disclaims all warranties and conditions including all implied warranties merchantability, fitness for particular purposes, title and non-infringement with regard to the information, software, products, and services contained on the Web Site.
+
+In no event shall Isography be liable for any direct, indirect, punitive, incidental, special or consequential damages arising out of or in any way connected with your use of the Web Site or with any delay or inability to use the Web Site, or for any information, software, products, and services obtained through information found on the Web Site, whether based on contract, tort, strict liability or otherwise, even if Isography has been advised of the possibility of damages. Because some states/jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitations regarding those types of damages may not apply to you.
+
+Misuse Prohibited/Limits on Use
+As a condition of using the Web Site, you agree that you will not use the Web Site for any purpose that is unlawful or prohibited by the Agreement.
+
+Isography provides the Web Site to permit you to send personal information discreetly over the Internet. The Web Site is not to be used for any other purposes. The Web Site is for your personal, non-commercial use. You agree that you will use the Web Site only to save your personal information or the personal information of another individual for whom you are authorized to act both legally and under this Agreement.
+
+You agree that you will not make any false statements in the personal information you send using Isography's email service.
+
+You agree that you will not Misuse the Web Site. 'Misuse' includes, but is not limited to, using the Web Site to do any of the following:
+
+* Disrupt any aspect of Isography's operation
+* * Disclose or transmit confidential information, or other confidential and/or protected proprietary data of any entity or person, including but not limited to Isography or any of its users
+* Interfere with another's access to or use of the Web Site
+* Take any action that will or could impose an unreasonable or disproportionately large load on the Web Site infrastructure
+* Distribute or publish any information that degrades, embarrasses, harasses, humiliates, intimidates, or threatens any individual or group of individuals on account of their age, ancestry, color, ethnicity, marital status, medical condition, mental or physical disability, national origin, race, sex, sexual orientation, union or nonunion affiliation, or any other basis protected by federal, state, or local law
+* Abuse, defame, harass, stalk, threaten, or otherwise violate another's legal rights, including but not limited to rights of privacy and publicity
+* Download or upload files (such as computer viruses, corrupt files, or similar software) that may damage the operation of Isography or another's computers
+* Download or upload files that contain materials (including but not limited to software) that violate Isography's or another's intellectual property, privacy, or publicity rights
+* Misrepresent or omit the origin or source of any file that you download or upload
+* Download or upload files that do not contain the posted proprietary language, author attributions, and/or copyright, patent, or trademark notices
+* Distribute or publish any obscene, infringing, or unlawful material
+* Engage in any commercial purpose, including but not limited to:
+o Advertising or offering to sell any goods or services;
+o Conducting contests or surveys;
+o Distributing chain letters, or advertising with respect to any Ponzi scheme or pyramid scheme; and
+o Advertising or offering to sell any business opportunities, direct sales opportunities, employment, independent contractor positions, multi-level marketing opportunities, or securities
+* Copy, create derivative works from, display, distribute, license, perform, publish, recreate, reproduce, sell, transfer, or transmit any information, products, services, or software obtained by, from, or through the Web Site
+* Monitor or copy any content by using any manual process, or any robot, spider, or other automatic device, without first obtaining Isography's prior written consent
+* Act as an agent or attorney in fact for any person who is not a member of your immediate household
+* Access private information about any user protected by Web Site passwords ('Secret Words') and post it on any other web site without that member's consent
+* Utilize a someone's private information, unless you are:
+o The person to whom that inforrmation is assigned;
+o A family member of the Isography user acting with the permission of the Isography user
+* Engage in any other conduct that is, or that Isography deems to be, in conflict with this Agreement
+Isography forbids such Misuses, and access of the Web Site for any such Misuses or other similar purposes is an unauthorized use of the Web Site.
+
+Copyright and Trademark Notices All contents, images, and logos on the Web Site are: Copyright 2007 Isography. Other products and company names mentioned in the Web Site may be the trademarks of their respective owners.
+
+As a condition of using the Web Site, you agree to indemnify Isography from and against any and all liabilities, expenses (including attorneys' fees), and damages arising out of claims resulting from your use of the Web Site, including without limitation any claims alleging facts that if true would constitute your breach of this Agreement.
+
+Service Contact
+With regard to any questions or problems about the Web Site, please contact Isography by email at admin@isography.com
+
+Modification of These Terms and Conditions
+Isography reserves the right to modify the Agreement at its sole discretion and without notice. Your continued use of the Web Site following any such modifications shall constitute your acceptance of such modifications.
+
+General
+The Agreement shall be deemed to have been made in the State of California and shall be interpreted in accordance with California law, without regard to conflicts of law principles. Isography and you consent and waive any objections to the exclusive personal jurisdiction of the state and federal courts in Alameda County, California, for the determination of any claim or controversy arising out of or relating to the Agreement. Isography and you waive any objections to venue in such courts due to inconvenient forum or any other basis.
+
+You acknowledge that no joint venture, partnership, employment, or agency relationship exists between you and Isography as a result of the Agreement or your use of the Web Site.
+
+Isography's performance under the Agreement is subject to existing laws and legal process, and nothing contained in the Agreement limits Isography's right to comply with law enforcement requests or requirements relating either to your use of the Web Site or the information provided to or gathered by Isography with respect to such use.
+
+If a court of competent jurisdiction determines that any part of the Agreement is invalid or unenforceable, then the invalid or unenforceable part will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original part and the remainder of the Agreement shall continue in effect.
+
+The Agreement constitutes the entire agreement between Isography and you with respect to the Web Site and supersedes all prior or contemporaneous communications and proposals, whether electronic, oral or written, between Isography and you with respect to the Web Site.
+
+A printed version of this usage agreement and all other notices, policies, and disclaimers contained on the Web Site will be admissible in judicial or administrative proceedings to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+
+Isography reserves any rights not expressly granted herein.

@@ -1,0 +1,1 @@
+Post has been deleted. <a href="http://<?=$_SERVER['HTTP_HOST'];?>/member/admin/moderatePosts">Go back</a>
