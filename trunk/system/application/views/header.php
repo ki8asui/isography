@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title><?=$this->config->item('site_name')?></title>
+<title><?=$this->config->item('site_title')?></title>
 <style type="text/css">
 <!--
 @import url("/styles/layout.css");

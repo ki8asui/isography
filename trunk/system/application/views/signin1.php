@@ -62,13 +62,13 @@ $(document).ready(function(){
 
 <table align="center" border="0" cellpadding="0" cellspacing="30"><tr><td valign="top">
 
-<b>Welcome to <?=$this->config->item('site_name')?></b><br/><br/>
+<b>Welcome to <?=$this->config->item('site_title')?></b><br/><br/>
 How does it work?
 <div style="margin: 10px 0px 10px 0px; padding: 4px; border: solid 1px #666666; background: #ffffff;"><object width="340" height="285"><param name="movie" value="http://www.youtube.com/v/7trUHFV6x08&hl=en&fs=1&rel=0&border=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/7trUHFV6x08&hl=en&fs=1&rel=0&border=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="340" height="285"></embed></object></div>
 
 </td><td valign="top">
 
-<b>Create an <?=$this->config->item('site_name')?> site</b><br/><br/><br/><br/>
+<b>Create an <?=$this->config->item('site_title')?> site</b><br/><br/><br/><br/>
 <textarea readonly="true" style="width: 500px;border:solid 1px #666666; 
 height: 200px; margin: 
 0px 0px 20px 0px;"><?php include_once('tos.txt');?></textarea>

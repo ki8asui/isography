@@ -82,6 +82,7 @@ class Base_controller extends Controller {
 		$this->load->model('Post_videos_model');
 		$this->load->model('Post_pictures_model');
 		$this->conf['site_name'] = $this->config->item('site_name');
+		$this->conf['site_title'] = $this->config->item('site_title');
 
 		$this->recaptcha_publickey = $this->config->item('recaptcha_publickey');
 		$this->recaptcha_privatekey = $this->config->item('recaptcha_privatekey');
@@ -92,7 +93,8 @@ class Base_controller extends Controller {
 
 		//checking if exists subdomain
 		//if(preg_match("/http:\/\/(.+?)\.".str_replace('.','\.',$this->conf['site_name'])."/", base_url(), $matches)) $this->subdomain = $matches[1];
-		if(preg_match("/(.+?)\.".str_replace('.','\.',$this->conf['site_name'])."/", $_SERVER["HTTP_HOST"], $matches)){
+		//if(preg_match("/(.+?)\.".str_replace('.','\.',$this->conf['site_name'])."/", $_SERVER["HTTP_HOST"], $matches)){
+		if(preg_match("/^(.+?)\./", $_SERVER["HTTP_HOST"], $matches)){
 			$siteData = $this->Site_model->getWhere(array('subdomain' => $matches[1]), 1);
 			if(!empty($siteData) && $siteData[0]['active_y_n'] != '0'){ 
 				$this->subdomain = $matches[1];
@@ -223,6 +225,7 @@ class Base_controller extends Controller {
 	{
 		session_start();
 
+		
 		$client = $this->_getAuthSubHttpClient();
 
 

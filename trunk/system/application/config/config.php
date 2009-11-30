@@ -13,7 +13,8 @@
 */
 
 $config['base_url']	= 'http://' . "pep6.com" . "/";
-$config['site_name'] = "Pep 6";
+$config['site_title'] = "Pep 6";
+$config['site_name'] = "pep6.com";
 $config['recaptcha_publickey'] = "6Lc5GwkAAAAAAJoyge446A2ZSsb5O--ATMI7K4VV";
 $config['recaptcha_privatekey'] = "6Lc5GwkAAAAAAILnoGG4aIUIc7ac0DbNF2yrwAaX";
 $config['developer_key'] = "ABQIAAAA15bHf3_aqRKecw8-_vhJchQ_QvUzdZh8venu_OQkyhqH1tgCLRT3W1sTnOshEvkTc_d0NjQbZ1OCBg";
