@@ -13,7 +13,8 @@
 */
 
 $config['base_url']	= 'http://' . _SITE_NAME . '/';
-$config['site_name'] = _SITE_TITLE;
+$config['site_name'] = _SITE_NAME;
+$config['site_title'] = _SITE_TITLE;
 $config['recaptcha_publickey'] = _RECAPTCHA_PUBLICKEY;
 $config['recaptcha_privatekey'] = _RECAPTCHA_PRIVATEKEY;
 $config['developer_key'] = _DEVELOPER_KEY;
