@@ -1,0 +1,1 @@
+Isography is a small, lightweight, personal message board system that integrates with Google Authentication using Authsub, so that users are not required to create their own accounts, and Facebook / Picasa / YouTube integration to eliminate storage requirements by leveraging existing platforms for user's assets.
